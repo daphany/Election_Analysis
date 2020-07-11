@@ -16,7 +16,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.8, Visual Studio Code, 1.38.1
 
 ## Election Audit Results
-- There were 369,711 votes cast in this congressional election?
+- There were 369,711 votes cast in this congressional election.
 - The counties were:
     - Jefferson
     - Denver
